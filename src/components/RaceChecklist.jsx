@@ -75,7 +75,7 @@ export default function RaceChecklist({ uma, races }) {
   const [filters, setFilters] = useState({
     grades: new Set(['G1', 'G2', 'G3']),
     terrains: new Set(['Turf', 'Dirt']),
-    distances: new Set(['Sprint', 'Mile', 'Middle', 'Long']),
+    distances: new Set(['Sprint', 'Mile', 'Medium', 'Long']),
   })
 
   const [showOnlyIncomplete, setShowOnlyIncomplete] = useState(false)
