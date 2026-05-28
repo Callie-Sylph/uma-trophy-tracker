@@ -2,8 +2,8 @@
 export const DISTANCE_RANGES = [
   { label: 'Sprint', min: 1000, max: 1400 },
   { label: 'Mile', min: 1500, max: 1800 },
-  { label: 'Medium', min: 1900, max: 2100 },
-  { label: 'Long', min: 2200, max: 9999 },
+  { label: 'Medium', min: 1900, max: 2400 },
+  { label: 'Long', min: 2401, max: 9999 },
 ]
 
 export const GRADES = ['G1', 'G2', 'G3']
