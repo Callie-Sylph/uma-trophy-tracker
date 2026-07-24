@@ -131,6 +131,26 @@
     ]
   },
   {
+    "id": 1110,
+    "name": "M.C. Nambu Hai",
+    "grade": "G1",
+    "distance": 1600,
+    "terrain": "Dirt",
+    "direction": "Left",
+    "dates": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
     "id": 1018,
     "name": "Mile Championship",
     "grade": "G1",
@@ -165,26 +185,6 @@
     "distance": 1600,
     "terrain": "Dirt",
     "direction": "Left"
-  },
-  {
-    "id": 1110,
-    "name": "Mile Championship Nambu Hai",
-    "grade": "G1",
-    "distance": 1600,
-    "terrain": "Dirt",
-    "direction": "Left",
-    "dates": [
-      {
-        "year": 2,
-        "month": 10,
-        "half": 1
-      },
-      {
-        "year": 3,
-        "month": 10,
-        "half": 1
-      }
-    ]
   },
   {
     "id": 1007,
@@ -2425,7 +2425,7 @@
   },
   {
     "id": 3071,
-    "name": "TCK Jo-O Hai",
+    "name": "TCK Jo-o Hai",
     "grade": "G3",
     "distance": 1800,
     "terrain": "Dirt",
